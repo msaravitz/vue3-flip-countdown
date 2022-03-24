@@ -442,7 +442,7 @@ export default {
     position: absolute;
     top: 50%;
     left: 0;
-    border-top: solid 1px #000;
+    border-top: solid 1px grey;
     background: v-bind(secondFlipBackgroundColor);
     border-radius: 0 0 @borderRadius @borderRadius;
     pointer-events: none;
